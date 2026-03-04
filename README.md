@@ -48,5 +48,6 @@ A ausência de vazamentos de memória (*memory leaks*) é um requisito estrito d
 `make valgrind ARGS="matriz.txt matriz2.txt"`
 
 **Critério de Sucesso:** O programa é considerado validado se o relatório final do Valgrind exibir:
+* `O tensor_meso.out na raiz do projeto`
 * `All heap blocks were freed -- no leaks are possible`
 * `ERROR SUMMARY: 0 errors from 0 contexts`
