@@ -1,4 +1,5 @@
-# 🧮 Produto Tensorial em C
+# 🧮 Produto Tensorial em C 
+## Desenvolvido na cadeira de Infraestrutura de Software
 
 Desenvolvimento de um programa em C capaz de processar e calcular o Produto Tensorial de múltiplas matrizes passadas por arquivos de texto. O projeto destaca a manipulação avançada de ponteiros e o gerenciamento eficiente de alocação dinâmica de memória frente ao crescimento exponencial de dados, com garantia de zero vazamentos (memory leaks) atestada pela ferramenta Valgrind
 
